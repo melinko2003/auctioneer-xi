@@ -1,0 +1,2 @@
+/opt/.venv/bin/python3 -m ffxiahbot refill --config /opt/.config/config.yaml --inp-csv /opt/.config/items.csv
+/opt/.venv/bin/python3 -m ffxiahbot broker --config /opt/.config/config.yaml --inp-csv /opt/.config/items.csv --buy-items --sell-items 
